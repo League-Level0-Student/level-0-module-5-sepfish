@@ -11,5 +11,4 @@ public class Fibonacci {
 			firstNumber = secondNumber;
 			secondNumber = fibonacci;
 		}
-	}
-}
+}}
